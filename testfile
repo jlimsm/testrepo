@@ -1,2 +1,4 @@
 testfile
 gcp-wow-edg-le-dev-lab
+
+jdbc:sq|server://Lima\\Lima19;databaseName=END-Prod;
